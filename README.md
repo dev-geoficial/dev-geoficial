@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&background=A5B8FF00&width=435&lines=Desenvolvedor+Front-end+;Tecnologias%3A+Html+5+%7C+CSS+3+%7C+Java+Script+%7C+Node.js+%7C+Type+Script+%7C+Python+%7C+AWS+%7C+Docker)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&background=A5B8FF00&width=435&lines=Desenvolvedor+Front-end+;Html+5+%7C+CSS+3+%7C+Java+Script)](https://git.io/typing-svg)
